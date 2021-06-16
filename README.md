@@ -37,4 +37,4 @@ jsonhelper.write_list_json_file('listname', 'element')
 ```
 This will insert the element into the specific list
 
-For More Information, Visit [Documentation]('https://quickjson.readthedocs.io/)
+For More Information, Visit [Documentation](https://quickjson.readthedocs.io/).

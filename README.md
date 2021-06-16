@@ -17,7 +17,6 @@ This will initialize QuickJson Class to jsonhelper variable and now you can use 
 
 ```
 print(jsonhelper.read_json_file())
-
 ```
 This will print the contents of json file in the console.
 
@@ -27,7 +26,6 @@ This will print the contents of json file in the console.
 data = {"elite": "john"} # Sample Dictionary
 
 jsohelper.write_json_file(data) # Parsing the dictionary
-
 ```
 This will write the dictionary parsed in the json file.
 
@@ -36,7 +34,6 @@ This will write the dictionary parsed in the json file.
 If you want to insert an item to a list present inside json file then use this code
 ```
 jsonhelper.write_list_json_file('listname', 'element')
-
 ```
 This will insert the element into the specific list
 

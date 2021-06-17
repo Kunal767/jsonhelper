@@ -41,7 +41,7 @@ jsohelper.write_json_file(data) # Parsing the dictionary
 ```
 This will write the dictionary parsed in the json file.
 
-## Inserting Element to a List present inside json file
+### Inserting Element to a List present inside json file
 
 If you want to insert an item to a list present inside json file then use this code
 ```
